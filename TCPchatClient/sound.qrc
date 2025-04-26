@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ogg">
+        <file alias="notification">SE.ogg</file>
+        <file alias="sound">notification1.wav</file>
+    </qresource>
+</RCC>
